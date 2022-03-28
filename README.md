@@ -1,4 +1,4 @@
-Thank you for your interest in contributing to this project! This website is build using React(in frontend) and Django(backend). 
+Thank you for your interest in contributing to this project! This website is build using React and Django templates(frontend) and Django(backend). 
 
 ## Design
 In case you would like to have a look over the designed UI, here is the link: [Figma](https://www.figma.com/file/hsyaeH7PnejILiTzcEYJ8V/OpInCo?node-id=730%3A6542)
@@ -34,4 +34,4 @@ Before installation, make sure you have installed:
 - Newcomers are always welcomed to contribute
 - Suggestions/ideas are always welcome
 
-
+Link to community discord server - [Discord](https://discord.gg/G8ncSuHc8t)
