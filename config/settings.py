@@ -30,7 +30,7 @@ ALLOWED_HOSTS = []
 
 # Application definition
 USER_INSTALLED_APPS = [
-    'profiles',
+    
 ]
 
 DEFAULT_APPS = [
