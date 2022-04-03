@@ -1,11 +1,12 @@
 # OpinCo Official Website
 
-## Design
-In case you would like to have a look over the designed UI, here is the link: [Figma](https://www.figma.com/file/hsyaeH7PnejILiTzcEYJ8V/OpInCo?node-id=730%3A6542)
+## Prototype
+In case you would like to have a look over the UI:  [Click here](https://www.figma.com/file/hsyaeH7PnejILiTzcEYJ8V/OpInCo?node-id=730%3A6542)
 
-## Prerequisites
-Before installation, make sure you have installed: 
-- [Git](https://git-scm.com/downloads)
+
+## Prerequisites 
+- Install [Git](https://git-scm.com/downloads) in your system.
+- Have VS Code or any equivalent text editor in your system.
 
 
 ## Setting up the project
