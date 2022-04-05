@@ -1,11 +1,12 @@
-Thank you for your interest in contributing to this project! This website is build using React and Django templates(frontend) and Django(backend). 
+# OpinCo Official Website
 
-## Design
-In case you would like to have a look over the designed UI, here is the link: [Figma](https://www.figma.com/file/hsyaeH7PnejILiTzcEYJ8V/OpInCo?node-id=730%3A6542)
+## Prototype
+In case you would like to have a look over the UI:  [Click here](https://www.figma.com/file/hsyaeH7PnejILiTzcEYJ8V/OpInCo?node-id=730%3A6542)
 
-## Prerequisites
-Before installation, make sure you have installed: 
-- [Git](https://git-scm.com/downloads)
+
+## Prerequisites 
+- Install [Git](https://git-scm.com/downloads) in your system.
+- Have VS Code or any equivalent text editor in your system.
 
 
 ## Setting up the project
@@ -30,8 +31,17 @@ Before installation, make sure you have installed:
 - Create a PR from your branch 
 
 ## Contributors
+
+<a href="https://github.com/OpInCo-Community/official-website/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=OpInCo-Community/official-website" />
+</a>
+
+Special thanks to all the contributors 💖
+
 - Our community is inclusive and open to all
 - Newcomers are always welcomed to contribute
 - Suggestions/ideas are always welcome
 
-Link to community discord server - [Discord](https://discord.gg/G8ncSuHc8t)
+**Every contribution matters**
+
+Feel free to join our community - [Discord link](https://discord.gg/G8ncSuHc8t)
