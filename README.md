@@ -1,4 +1,4 @@
-# OpinCo Official Website
+# OpInCo Official Website
 
 ## Prototype
 In case you would like to have a look over the UI:  [Click here](https://www.figma.com/file/hsyaeH7PnejILiTzcEYJ8V/OpInCo?node-id=730%3A6542)
